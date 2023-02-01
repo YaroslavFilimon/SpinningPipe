@@ -1,0 +1,8 @@
+C:\Users\spark\source\repos\SpinningPipe\bin\Debug\SpinningPipe.exe.config
+C:\Users\spark\source\repos\SpinningPipe\bin\Debug\SpinningPipe.exe
+C:\Users\spark\source\repos\SpinningPipe\bin\Debug\SpinningPipe.pdb
+C:\Users\spark\source\repos\SpinningPipe\obj\Debug\SpinningPipe.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\SpinningPipe\obj\Debug\SpinningPipe.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\SpinningPipe\obj\Debug\SpinningPipe.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\SpinningPipe\obj\Debug\SpinningPipe.exe
+C:\Users\spark\source\repos\SpinningPipe\obj\Debug\SpinningPipe.pdb
